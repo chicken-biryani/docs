@@ -1,32 +1,23 @@
 # Code of Conduct
 
-We are proud of our community, and have provided these guidelines to support new members in maintaining the Naas spirit. We appreciate your continued commitment to making this a community we are all excited to be a part of.
+As a community, we value the participation of every member and work hard to ensure that every contributor has an enjoyable experience. We are motivated to support newcomers who are looking to learn and develop their skills.
 
-## Rule 1: Be respectful.
+We believe that our community members will work together to foster an atmosphere of support and collaboration. To make it clear what we expect from the members and maintain the spirit of the Naas community, we ask members of the community to confirm the given code of conduct.
 
-## Rule 2: Check off your resolved questions.
+**Be respectful:** Disagreements take place, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one
 
-If you asked for help and received a useful reply, please place a ✅ reaction by your original post to mark it as resolved.
+**Be considerate:** Your work will be used by other people, and you in turn will depend on the work of others. Any decision you take will affect users and colleagues, and you should take those consequences into account when making decisions
 
-## Rule 3: Don’t double-post.
+**Be welcoming:** We strive to be a community that welcomes and supports people of all backgrounds and identities. Do not engage in racist, transphobic, ageist, ableist, homophobic, sexist, or otherwise exclusionary behaviour.
 
-If you ask a question and don’t get a response, review your question for clarity and revise it instead of reposting it. If you still feel that you haven’t received an adequate response, feel free to ping @support.
+**Keep it public:** Do not contact individual members of this community without their explicit permission, independent of reason. Try to keep the conversations as transparent as possible.
 
-## Rule 4: Keep it public.
+**Don't spam tags:** For support and questions, generally avoid tagging community members. You will find that our community of volunteers is generally very responsive and amazingly helpful! As mentioned above, if you don’t receive an answer to your question, feel free to ping @support.
 
-This is a public forum; do not contact individual members of this community without their explicit permission, independent of reason.
+**Be friendly and patient:** If you ask a question and don’t get a response, review your question for clarity and revise it instead of reposting it. If you still feel that you haven’t received an adequate response, feel free to ping @support.
 
-## Rule 5: No soliciting!
+**Check off your resolved questions:** If you asked for help on Slack and received a useful reply, please place a ✅ reaction by your original post to mark it as resolved.
 
-If you’re a vendor, you may advertise your product in \#shameless-plugs. Advertising your product anywhere else, especially in direct messages \(DMs\), is strictly against the rules. We are appreciative when recruiters and vendors identify themselves through their Slack username.
-
-## Rule 6: Don't spam tags.
-
-For support and questions, generally avoid tagging community members. You will find that our community of volunteers is generally very responsive and amazingly helpful! As mentioned above, if you don’t receive an answer to your question, feel free to ping @support.
-
-## Rule 7: Use threads for discussion.
-
-Using threads allows us to scope conversations without burying messages before it! They allow us to be organized in responding to questions and help keep our time to first response and resolution very low.
+**No soliciting!:** If you’re a vendor, you may advertise your product in #shameless-plugs. Advertising your product anywhere else, especially in direct messages (DMs), is strictly against the rules. We are appreciative when recruiters and vendors identify themselves through their Slack username.
 
 _If you see a message or receive a direct message that violates any of these rules, please contact an Naas team member and we will take the appropriate moderation action immediately. We have zero tolerance for intentional rule-breaking and hate speech._
-
